@@ -1,4 +1,4 @@
-<div align="center">
+<div  align="center">
 
 # JalaliDatePicker
 [![npm version](https://badge.fury.io/js/%40majidh1%2Fjalalidatepicker.svg)](https://www.npmjs.com/package/@majidh1/jalalidatepicker)
